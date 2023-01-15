@@ -1,3 +1,7 @@
+## nextjs-blog-theme
+
+<!--
+
 ![Netlify Next.js Blog Template designed by Bejamas](github-banner.svg)
 
 [![Deploy to Netlify Button](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/netlify-templates/nextjs-blog-theme)
@@ -133,3 +137,4 @@ And lastly if you’d like to remove Cypress entirely, delete the entire `cypres
 ```bash
 npm uninstall cypress
 ```
+-->
