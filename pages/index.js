@@ -10,6 +10,9 @@ import SEO from '../components/SEO';
 
 export default function Index({ posts, globalData }) {
   return (
+    <head>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5832817025080991"
+     crossorigin="anonymous"></script></head>
     <Layout>
       <SEO title={globalData.name} description={globalData.blogTitle} />
       <Header name={globalData.name} />
